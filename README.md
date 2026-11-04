@@ -46,20 +46,17 @@ Follow these steps from the first screen to the last.
 
 Type any **Username** and any **Password**, then click **Login**.
 
-![Login screen](<img width="397" height="243" alt="01-login" src="https://github.com/user-attachments/assets/a0c4c92d-632a-47f0-a93c-e248a63477ee" />
-)
+<img width="397" height="243" alt="01-login" src="https://github.com/user-attachments/assets/a0c4c92d-632a-47f0-a93c-e248a63477ee" />
 
 This is a practice app, so there is no real account. The only rule is that both boxes must be filled in. If one is empty, you will see this message:
 
-![Login error message](<img width="398" height="240" alt="02-login-error" src="https://github.com/user-attachments/assets/7d8b197e-1a45-4e44-9045-af7011561f8a" />
-)
+<img width="398" height="240" alt="02-login-error" src="https://github.com/user-attachments/assets/7d8b197e-1a45-4e44-9045-af7011561f8a" />
 
 ### Step 2: Choose what you want to do
 
 After you log in, you will see the Choose screen. Click **Bicycle** to calculate a rental cost, or **Mushroom** to play the guessing game.
 
-![Choose screen](<img width="395" height="240" alt="03-choose" src="https://github.com/user-attachments/assets/ec895636-cf45-402d-a26b-f6d1c6772a0c" />
-)
+<img width="395" height="240" alt="03-choose" src="https://github.com/user-attachments/assets/ec895636-cf45-402d-a26b-f6d1c6772a0c" />
 
 ### Step 3: Use the Bicycle Rental tool
 
@@ -68,13 +65,11 @@ After you log in, you will see the Choose screen. Click **Bicycle** to calculate
 3. Click **Calculate**.
 4. Read your cost in the **Total** box.
 
-![Bicycle screen](<img width="590" height="266" alt="04-bicycle" src="https://github.com/user-attachments/assets/9b7c3c56-e25e-41fc-9176-52dc9a3d50c5" />
-)
+<img width="590" height="266" alt="04-bicycle" src="https://github.com/user-attachments/assets/9b7c3c56-e25e-41fc-9176-52dc9a3d50c5" />
 
 Here is an example. If you rent from 8 to 10, the Total box shows `2000 RWF`.
 
-![Bicycle result](<img width="587" height="262" alt="05-bicycle-result" src="https://github.com/user-attachments/assets/4d51bc43-3a6a-40fc-8919-8244b0d4b1e9" />
-)
+<img width="587" height="262" alt="05-bicycle-result" src="https://github.com/user-attachments/assets/4d51bc43-3a6a-40fc-8919-8244b0d4b1e9" />
 
 **How the price is worked out:** each hour of your rental has its own price, and the app adds them together.
 
@@ -103,8 +98,7 @@ Here is an example. If you rent from 8 to 10, the Total box shows `2000 RWF`.
 | End hour is not between 1 and 24 | Invalid ending time. It must be between 1 and 24. |
 | Start hour is the same as or later than the end hour | Starting time must be less than ending time. |
 
-![Bicycle error message](<img width="590" height="260" alt="06-bicycle-error" src="https://github.com/user-attachments/assets/4e1f3977-3877-4937-b7e0-45edfc9eb2d3" />
-)
+<img width="590" height="260" alt="06-bicycle-error" src="https://github.com/user-attachments/assets/4e1f3977-3877-4937-b7e0-45edfc9eb2d3" />
 
 ### Step 4: Play the Mushroom Guess game
 
@@ -112,13 +106,11 @@ Think of one of these mushrooms: **Agaric Jaunissant, Amanite tue-mouche, Cepe d
 
 The app asks you questions. Click **Yes** or **No** for each one.
 
-![Mushroom question](<img width="458" height="277" alt="07-mushroom-question" src="https://github.com/user-attachments/assets/90f37904-20d8-423a-8d4b-6de8f305aa83" />
-)
+<img width="458" height="277" alt="07-mushroom-question" src="https://github.com/user-attachments/assets/90f37904-20d8-423a-8d4b-6de8f305aa83" />
 
 At the end, a message box tells you which mushroom you were thinking of. Then the game starts again, so you can play as many times as you like.
 
-![Mushroom result](<img width="455" height="276" alt="08-mushroom-result" src="https://github.com/user-attachments/assets/649bddb8-6c5b-4f7b-bfb8-f661ff81932e" />
-)
+<img width="455" height="276" alt="08-mushroom-result" src="https://github.com/user-attachments/assets/649bddb8-6c5b-4f7b-bfb8-f661ff81932e" />
 
 **Which answers lead to which mushroom:**
 
